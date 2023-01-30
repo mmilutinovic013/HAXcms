@@ -18,7 +18,7 @@
     "express": "4.17.1",
     "open": "8.0.9",
     "openapi-enforcer-middleware": "1.2.4",
-    "openapi-enforcer": "1.14.1",
+    "openapi-enforcer": "1.22.2",
     "body-parser": "1.19.0",
     "sharp": "0.30.5",
     "uuid": "8.3.2",
