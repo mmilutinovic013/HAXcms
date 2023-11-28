@@ -14,7 +14,7 @@
     "fs-extra": "10.0.0",
     "locutus": "2.0.15",
     "helmet": "4.6.0",
-    "express-fileupload": "1.2.1",
+    "express-fileupload": "1.4.0",
     "express": "4.17.1",
     "open": "8.0.9",
     "openapi-enforcer-middleware": "1.2.4",
