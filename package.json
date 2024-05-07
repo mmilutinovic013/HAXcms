@@ -13,7 +13,7 @@
   "license": "Apache-2.0",
   "flat": true,
   "dependencies": {
-    "@lrnwebcomponents/baseline-build-hax": "^3.0.5",
+    "@lrnwebcomponents/baseline-build-hax": "^7.0.4",
     "@lrnwebcomponents/h-a-x": "^3.0.5",
     "@lrnwebcomponents/haxcms-elements": "^3.0.5",
     "@lrnwebcomponents/haxor-slevin": "^3.0.5",
