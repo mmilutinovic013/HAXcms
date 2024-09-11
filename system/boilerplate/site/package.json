@@ -56,7 +56,7 @@
     "@lrnwebcomponents/schema-behaviors": "^2.0.1",
     "@lrnwebcomponents/self-check": "^2.0.1",
     "@lrnwebcomponents/silly-hax-game": "^2.0.1",
-    "@lrnwebcomponents/simple-blog": "^2.0.1",
+    "@lrnwebcomponents/simple-blog": "^7.0.16",
     "@lrnwebcomponents/simple-colors": "^2.0.1",
     "@lrnwebcomponents/simple-concept-network": "^2.0.1",
     "@lrnwebcomponents/stop-note": "^2.0.1",
