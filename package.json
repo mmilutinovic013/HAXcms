@@ -21,7 +21,7 @@
     "@lrnwebcomponents/outline-player": "^3.0.5",
     "@lrnwebcomponents/clean-one": "^3.0.5",
     "@lrnwebcomponents/clean-two": "^3.0.5",
-    "@lrnwebcomponents/simple-blog": "^3.0.5",
+    "@lrnwebcomponents/simple-blog": "^7.0.16",
     "@webcomponents/webcomponentsjs": "^2.4.4",
     "@lrnwebcomponents/wc-autoload": "^3.0.5",
     "@lrnwebcomponents/portal-launcher": "^3.0.5",
